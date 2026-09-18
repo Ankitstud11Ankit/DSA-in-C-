@@ -14,5 +14,4 @@ int main(){
     cin>>name;
     cout<<convert(name);
     
-
 }

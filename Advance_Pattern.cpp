@@ -48,12 +48,4 @@ int main(){
     cout<<"New Question Answer"<<endl;
         
 
-                
-
-
-        
-       
-        
-
-
 }
